@@ -278,6 +278,7 @@ button:focus {
     background-color: #f4f4fd;
     background-repeat: 4px;
     margin-bottom: 8px;
+    border-radius: 4px;
 }
 
 /* OUR TEAM SECTION */
@@ -345,9 +346,13 @@ button:focus {
     gap: 24px;
 }
 
-.media-position {
+.social-media {
     width: 40px;
     height: 40px;
+}
+
+.media-position {
+    height: 100%;
     background-color: #4d5ae5;
     display: flex;
     align-items: center;
