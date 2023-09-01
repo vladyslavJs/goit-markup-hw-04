@@ -40,7 +40,6 @@ button {
 .list {
     list-style-type: none;
 }
-
 .link {
     text-decoration: none;
 }
@@ -49,7 +48,6 @@ button {
 .style-link:hover,
 .style-link:focus {
     color: #404bbf;
-    text-decoration: underline;
 }
 
 
