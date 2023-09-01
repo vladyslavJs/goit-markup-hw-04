@@ -230,6 +230,7 @@ button:focus {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    margin-top: 8px;
 }
 
 .advantages-body {
@@ -241,6 +242,11 @@ button:focus {
 }
 
 /* ELEMENTS POSITION */
+
+.advantages-position {
+    display: flex;
+}
+
 .advatnages-list {
     display: flex;
     gap: 24px;
@@ -307,6 +313,14 @@ button:focus {
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
     cursor: pointer;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-top: 8px;
 }
 
 /* OUR PORTFOLIO SECTION*/
