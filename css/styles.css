@@ -192,6 +192,7 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     margin: 0 auto;
+    margin-bottom: 48px;
 }
  /* button-style */
 .button-text {
